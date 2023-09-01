@@ -1,0 +1,20 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.bodyBackgorund {
+	background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#shablau{
+border-width: 10px;
+background-color: moccasin;
+border-style:  dotted dashed solid double;
+}
+span{
+	font-size: 20px;
+}
